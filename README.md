@@ -1,4 +1,4 @@
-# Ideapad: Next.js 13, React, Convex, Tailwind
+# Ideapad: Next.js 13, React, Convex
 ## 👀 live demo at https://ideapad.salmann.dev/
 
 A full-stack Notion-inspired app built with Next.js 13, React, Convex, and Tailwind. Features a Notion-style editor, hierarchical documents, dark mode, authentication, file management, and a fully responsive UI for seamless note-taking and organization.
